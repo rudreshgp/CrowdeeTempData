@@ -1,0 +1,903 @@
+[
+  {
+    "id": 4687,
+    "title": "test für vivi",
+    "name": "test für vivi",
+    "aliasId": "F0816B2941",
+    "type": "job",
+    "language": "DE",
+    "description": "<p>Starte hier den zweiten Teil unseres Trainings zur Erstellung von Zusammenfassungen. In diesem Teil sollst Du die Deiner Meinung nach relevantesten Sätze aus Beiträgen eines Forums testweise zusammenstellen. <br><b>Du benötigst dafür ca. 10 Minuten.</b></p>\n<p>Für diejenigen, die die besten Zusammenstellungen beitragen, werden wir ab dem 26.September bis zu 4 Aufgaben mit jeweils 1,50Euro Entlohnung online stellen.</p>\n<p><b>Anforderungen </b><br>• Du verfügst über sehr gute Deutschkentnisse<br>• Du nutzt einen Laptop oder Desktop PC, <b>KEIN Mobiltelefon</b></p>",
+    "webViewLink": "https://www.crowdee.de/jobs/4687",
+    "category": "SURVEY",
+    "status": "ASSIGNABLE",
+    "creationTime": "2018-10-19T11:22:46Z",
+    "maxAssignments": 2,
+    "uniqueTasks": true,
+    "relatedJobs": [],
+    "clientRequirements": {
+      "minVersion": 99999
+    },
+    "totalTasks": 10,
+    "availableTasks": 10,
+    "assignmentDuration": 1800,
+    "reservationTimeout": 360,
+    "validFrom": "2018-10-19T13:22:46Z",
+    "validUntil": "2018-11-18T12:22:46Z",
+    "autoApprovalDelay": 1,
+    "averageDuration": 450,
+    "preloadContent": [],
+    "keywords": [],
+    "provider": {
+      "id": 7,
+      "name": "Demo Client",
+      "description": "Demo Client Account",
+      "awards": []
+    },
+    "qualificationRequirements": [],
+    "rewards": [
+      {
+        "currency": "POINTS",
+        "amount": 30.00
+      },
+      {
+        "currency": "EUR",
+        "amount": 1.30
+      }
+    ]
+  },
+  {
+    "id": 4685,
+    "title": "Vivi Test 1)",
+    "name": "Vivi Test 1",
+    "aliasId": "CC1BBD36E6",
+    "type": "job",
+    "language": "EN",
+    "description": "<p>Please create a summay of the following <b>fora</b>.</p>",
+    "webViewLink": "https://www.crowdee.de/jobs/4685",
+    "category": "SURVEY",
+    "status": "ASSIGNABLE",
+    "creationTime": "2018-10-19T10:43:46Z",
+    "maxAssignments": 2,
+    "uniqueTasks": true,
+    "relatedJobs": [],
+    "clientRequirements": {
+      "minVersion": 99999
+    },
+    "totalTasks": 10,
+    "availableTasks": 10,
+    "assignmentDuration": 1800,
+    "reservationTimeout": 360,
+    "validFrom": "2018-10-19T12:43:46Z",
+    "validUntil": "2018-11-18T11:43:46Z",
+    "autoApprovalDelay": 1,
+    "averageDuration": 450,
+    "preloadContent": [],
+    "keywords": [],
+    "provider": {
+      "id": 7,
+      "name": "Demo Client",
+      "description": "Demo Client Account",
+      "awards": []
+    },
+    "qualificationRequirements": [],
+    "rewards": [
+      {
+        "currency": "POINTS",
+        "amount": 30.00
+      },
+      {
+        "currency": "EUR",
+        "amount": 1.30
+      }
+    ]
+  },
+  {
+    "id": 4684,
+    "title": "Bewerte den Autor eines Posts (Vivi v01)",
+    "name": "Itemkatalog",
+    "aliasId": "C7B13FC18B",
+    "type": "job",
+    "language": "DE",
+    "description": "Bewerte den Autor eines Posts zur Nintendo Switch Spielekonsole. Die Aufgabe dauert ca. \n<b>7-10 min</b>.",
+    "webViewLink": "https://www.crowdee.de/jobs/4684",
+    "category": "SURVEY",
+    "status": "ASSIGNABLE",
+    "creationTime": "2018-10-19T10:32:05Z",
+    "maxAssignments": 3,
+    "uniqueTasks": true,
+    "relatedJobs": [],
+    "clientRequirements": {
+      "minVersion": 999999
+    },
+    "totalTasks": 3,
+    "availableTasks": 2,
+    "assignmentDuration": 1200,
+    "reservationTimeout": 240,
+    "validFrom": "2018-10-19T12:32:05Z",
+    "validUntil": "2018-11-18T11:32:05Z",
+    "autoApprovalDelay": 259200,
+    "averageDuration": 450,
+    "preloadContent": [],
+    "keywords": [
+      "ASSESSMENT"
+    ],
+    "provider": {
+      "id": 7,
+      "name": "Demo Client",
+      "description": "Demo Client Account",
+      "awards": []
+    },
+    "qualificationRequirements": [],
+    "rewards": [
+      {
+        "currency": "EUR",
+        "amount": 0.20
+      }
+    ]
+  },
+  {
+    "id": 4683,
+    "title": "Move2EUREF - Spielregeln für die neuen Büros",
+    "name": "ICU_EXTERN_Move2EUREF - Spielregeln für die neuen Büros",
+    "aliasId": "7F818EB0FA",
+    "type": "job",
+    "language": "DE",
+    "description": "Wie wollen wir im GASAG Energiequartier zusammen arbeiten?",
+    "webViewLink": "https://www.crowdee.de/jobs/4683",
+    "imageUrl": "https://oc.crowdee.de/index.php/s/oq94GHKZim8W6pG/download",
+    "category": "ICU_ASKTHEMANAGEMENT",
+    "status": "ASSIGNABLE",
+    "creationTime": "2018-10-17T10:36:45Z",
+    "maxAssignments": 10,
+    "uniqueTasks": false,
+    "relatedJobs": [],
+    "clientRequirements": {
+      "minVersion": 999999
+    },
+    "totalTasks": 500,
+    "availableTasks": 493,
+    "assignmentDuration": 21600,
+    "reservationTimeout": 600,
+    "validFrom": "2018-10-17T12:36:45Z",
+    "validUntil": "2018-11-09T23:00:00Z",
+    "autoApprovalDelay": 1,
+    "averageDuration": 21600,
+    "preloadContent": [],
+    "keywords": [
+      "WorkerInformations"
+    ],
+    "provider": {
+      "id": 178,
+      "name": "ICU User",
+      "description": "ICU User Description",
+      "awards": []
+    },
+    "qualificationRequirements": [],
+    "rewards": [
+      {
+        "currency": "EUR",
+        "amount": 0.01
+      }
+    ]
+  },
+  {
+    "id": 4682,
+    "title": "Move2EUREF - Spielregeln für die neuen Büros",
+    "name": "ICU_INTERN_Move2EUREF - Spielregeln für die neuen Büros",
+    "aliasId": "4B85EF7801",
+    "type": "job",
+    "language": "DE",
+    "description": "Wie wollen wir im GASAG Energiequartier zusammen arbeiten?",
+    "webViewLink": "https://www.crowdee.de/jobs/4682",
+    "imageUrl": "https://oc.crowdee.de/index.php/s/oq94GHKZim8W6pG/download",
+    "category": "ICU_ASKTHEMANAGEMENT",
+    "status": "ASSIGNABLE",
+    "creationTime": "2018-10-17T10:24:45Z",
+    "maxAssignments": 10,
+    "uniqueTasks": false,
+    "relatedJobs": [],
+    "clientRequirements": {
+      "minVersion": 999999
+    },
+    "totalTasks": 500,
+    "availableTasks": 499,
+    "assignmentDuration": 21600,
+    "reservationTimeout": 600,
+    "validFrom": "2018-10-17T12:24:45Z",
+    "validUntil": "2018-11-09T23:00:00Z",
+    "autoApprovalDelay": 1,
+    "averageDuration": 21600,
+    "preloadContent": [],
+    "keywords": [
+      "WorkerInformations"
+    ],
+    "provider": {
+      "id": 178,
+      "name": "ICU User",
+      "description": "ICU User Description",
+      "awards": []
+    },
+    "qualificationRequirements": [],
+    "rewards": [
+      {
+        "currency": "EUR",
+        "amount": 0.01
+      }
+    ]
+  },
+  {
+    "id": 4681,
+    "title": "Move2EUREF - Spielregeln für die neuen Büros",
+    "name": "ICU_INTERN_Move2EUREF - Spielregeln für die neuen Büros",
+    "aliasId": "5ACCC8254E",
+    "type": "job",
+    "language": "DE",
+    "description": "Wie wollen wir im GASAG Energiequartier zusammen arbeiten?",
+    "webViewLink": "https://www.crowdee.de/jobs/4681",
+    "imageUrl": "https://oc.crowdee.de/index.php/s/oq94GHKZim8W6pG/download",
+    "category": "SURVEY",
+    "status": "ASSIGNABLE",
+    "creationTime": "2018-10-17T10:22:20Z",
+    "maxAssignments": 10,
+    "uniqueTasks": false,
+    "relatedJobs": [],
+    "clientRequirements": {
+      "minVersion": 999999
+    },
+    "totalTasks": 500,
+    "availableTasks": 500,
+    "assignmentDuration": 21600,
+    "reservationTimeout": 600,
+    "validFrom": "2018-10-17T12:22:20Z",
+    "validUntil": "2018-11-09T23:00:00Z",
+    "autoApprovalDelay": 1,
+    "averageDuration": 21600,
+    "preloadContent": [],
+    "keywords": [
+      "WorkerInformations"
+    ],
+    "provider": {
+      "id": 178,
+      "name": "ICU User",
+      "description": "ICU User Description",
+      "awards": []
+    },
+    "qualificationRequirements": [],
+    "rewards": [
+      {
+        "currency": "EUR",
+        "amount": 0.01
+      }
+    ]
+  },
+  {
+    "id": 4677,
+    "title": "Brainstorming: AI Challenges for This Platform",
+    "name": "SWC_Brainstorming: AI Challenges for This Platform",
+    "aliasId": "CC838DA29F",
+    "type": "job",
+    "language": "DE",
+    "description": "Please submit your ideas that you want to discuss here!",
+    "webViewLink": "https://www.crowdee.de/jobs/4677",
+    "imageUrl": "https://oc.crowdee.de/index.php/s/XDwErfrB96Qdexa/preview",
+    "category": "SURVEY",
+    "status": "ASSIGNABLE",
+    "creationTime": "2018-10-16T16:15:49Z",
+    "maxAssignments": 100,
+    "uniqueTasks": false,
+    "relatedJobs": [],
+    "clientRequirements": {
+      "minVersion": 999999
+    },
+    "totalTasks": 500,
+    "availableTasks": 500,
+    "assignmentDuration": 600,
+    "reservationTimeout": 120,
+    "validFrom": "2018-10-16T18:15:49Z",
+    "validUntil": "2018-12-06T20:00:00Z",
+    "autoApprovalDelay": 259200,
+    "averageDuration": 600,
+    "preloadContent": [],
+    "keywords": [
+      "SELFASSESMENT"
+    ],
+    "provider": {
+      "id": 553,
+      "name": "SWC Client",
+      "description": "",
+      "awards": []
+    },
+    "qualificationRequirements": [],
+    "rewards": [
+      {
+        "currency": "POINTS",
+        "amount": 10.00
+      }
+    ]
+  },
+  {
+    "id": 4676,
+    "title": "Future of AI",
+    "name": "SWC_Future of AI",
+    "aliasId": "9CCCDCAABE",
+    "type": "job",
+    "language": "DE",
+    "description": "How does the future of AI look like?",
+    "webViewLink": "https://www.crowdee.de/jobs/4676",
+    "imageUrl": "https://oc.crowdee.de/index.php/s/pdTaZyqMMpPNfZ7/preview",
+    "category": "SURVEY",
+    "status": "ASSIGNABLE",
+    "creationTime": "2018-10-16T16:08:58Z",
+    "maxAssignments": 100,
+    "uniqueTasks": false,
+    "relatedJobs": [],
+    "clientRequirements": {
+      "minVersion": 999999
+    },
+    "totalTasks": 500,
+    "availableTasks": 500,
+    "assignmentDuration": 600,
+    "reservationTimeout": 120,
+    "validFrom": "2018-10-16T18:08:58Z",
+    "validUntil": "2018-12-06T20:00:00Z",
+    "autoApprovalDelay": 259200,
+    "averageDuration": 600,
+    "preloadContent": [],
+    "keywords": [
+      "SELFASSESMENT"
+    ],
+    "provider": {
+      "id": 553,
+      "name": "SWC Client",
+      "description": "",
+      "awards": []
+    },
+    "qualificationRequirements": [],
+    "rewards": [
+      {
+        "currency": "POINTS",
+        "amount": 10.00
+      }
+    ]
+  },
+  {
+    "id": 4675,
+    "title": "Find a name for this platform!",
+    "name": "SWC_Find a name for this platform! (Voting)",
+    "aliasId": "F7821EFE04",
+    "type": "job",
+    "language": "DE",
+    "description": "Vote for the best platform name suggestions.",
+    "webViewLink": "https://www.crowdee.de/jobs/4675",
+    "imageUrl": "https://oc.crowdee.de/index.php/s/AQPGwsgndRYsNf8/download",
+    "category": "SWC_CAMPAIGN",
+    "status": "ASSIGNABLE",
+    "creationTime": "2018-10-16T15:22:45Z",
+    "maxAssignments": 100,
+    "uniqueTasks": false,
+    "relatedJobs": [],
+    "clientRequirements": {
+      "minVersion": 999999
+    },
+    "totalTasks": 500,
+    "availableTasks": 496,
+    "assignmentDuration": 600,
+    "reservationTimeout": 120,
+    "validFrom": "2018-10-16T17:22:45Z",
+    "validUntil": "2018-12-06T23:59:59Z",
+    "autoApprovalDelay": 259200,
+    "averageDuration": 600,
+    "preloadContent": [],
+    "keywords": [
+      "SELFASSESMENT"
+    ],
+    "provider": {
+      "id": 553,
+      "name": "SWC Client",
+      "description": "",
+      "awards": []
+    },
+    "qualificationRequirements": [],
+    "rewards": [
+      {
+        "currency": "POINTS",
+        "amount": 100.00
+      }
+    ]
+  },
+  {
+    "id": 4674,
+    "title": "Find a name for this platform!",
+    "name": "SWC_Find a name for this platform! (Storming)",
+    "aliasId": "052309FAC4",
+    "type": "job",
+    "language": "DE",
+    "description": "Submit your suggestions.",
+    "webViewLink": "https://www.crowdee.de/jobs/4674",
+    "imageUrl": "https://oc.crowdee.de/index.php/s/oASPwd7E5CRCj2x/download",
+    "category": "SWC_CAMPAIGN",
+    "status": "ASSIGNABLE",
+    "creationTime": "2018-10-16T14:43:08Z",
+    "maxAssignments": 100,
+    "uniqueTasks": false,
+    "relatedJobs": [],
+    "clientRequirements": {
+      "minVersion": 999999
+    },
+    "totalTasks": 500,
+    "availableTasks": 498,
+    "assignmentDuration": 600,
+    "reservationTimeout": 120,
+    "validFrom": "2018-10-16T16:43:08Z",
+    "validUntil": "2018-12-06T23:59:59Z",
+    "autoApprovalDelay": 259200,
+    "averageDuration": 600,
+    "preloadContent": [],
+    "keywords": [
+      "SELFASSESMENT"
+    ],
+    "provider": {
+      "id": 553,
+      "name": "SWC Client",
+      "description": "",
+      "awards": []
+    },
+    "qualificationRequirements": [],
+    "rewards": [
+      {
+        "currency": "POINTS",
+        "amount": 100.00
+      }
+    ]
+  },
+  {
+    "id": 4673,
+    "title": "Move2EUREF - Spielregeln für die neuen Büros (antworten sichtbar)",
+    "name": "ICU_INTERN_Move2Euref - Spielregeln für die neuen Büros",
+    "aliasId": "BB96DFA213",
+    "type": "job",
+    "language": "DE",
+    "description": "Wie wollen wir im GASAG Energiequartier zusammen arbeiten?",
+    "webViewLink": "https://www.crowdee.de/jobs/4673",
+    "imageUrl": "https://oc.crowdee.de/index.php/s/oq94GHKZim8W6pG/download",
+    "category": "ICU_ASKTHEMANAGEMENT",
+    "status": "ASSIGNABLE",
+    "creationTime": "2018-10-16T14:40:19Z",
+    "maxAssignments": 10,
+    "uniqueTasks": false,
+    "relatedJobs": [],
+    "clientRequirements": {
+      "minVersion": 999999
+    },
+    "totalTasks": 500,
+    "availableTasks": 498,
+    "assignmentDuration": 21600,
+    "reservationTimeout": 600,
+    "validFrom": "2018-10-16T16:40:19Z",
+    "validUntil": "2018-11-03T20:00:00Z",
+    "autoApprovalDelay": 1,
+    "averageDuration": 21600,
+    "preloadContent": [],
+    "keywords": [
+      "WorkerInformations"
+    ],
+    "provider": {
+      "id": 178,
+      "name": "ICU User",
+      "description": "ICU User Description",
+      "awards": []
+    },
+    "qualificationRequirements": [],
+    "rewards": [
+      {
+        "currency": "EUR",
+        "amount": 0.01
+      }
+    ]
+  },
+  {
+    "id": 4671,
+    "title": "Move2Euref - Spielregeln für die neuen Büros (NESLI_V5)",
+    "name": "ICU_INTERN_Steckbrief für neue Produktideen",
+    "aliasId": "EBF0429005",
+    "type": "job",
+    "language": "DE",
+    "description": "Wie wollen wir im GASAG Energiequartier zusammen arbeiten?",
+    "webViewLink": "https://www.crowdee.de/jobs/4671",
+    "imageUrl": "https://oc.crowdee.de/index.php/s/oq94GHKZim8W6pG/download",
+    "category": "SURVEY",
+    "status": "ASSIGNABLE",
+    "creationTime": "2018-10-16T13:10:02Z",
+    "maxAssignments": 10,
+    "uniqueTasks": false,
+    "relatedJobs": [],
+    "clientRequirements": {
+      "minVersion": 999999
+    },
+    "totalTasks": 500,
+    "availableTasks": 500,
+    "assignmentDuration": 21600,
+    "reservationTimeout": 600,
+    "validFrom": "2018-10-16T15:10:02Z",
+    "validUntil": "2018-11-03T20:00:00Z",
+    "autoApprovalDelay": 1,
+    "averageDuration": 21600,
+    "preloadContent": [],
+    "keywords": [
+      "WorkerInformations"
+    ],
+    "provider": {
+      "id": 178,
+      "name": "ICU User",
+      "description": "ICU User Description",
+      "awards": []
+    },
+    "qualificationRequirements": [],
+    "rewards": [
+      {
+        "currency": "EUR",
+        "amount": 0.01
+      }
+    ]
+  },
+  {
+    "id": 4666,
+    "title": "Move2Euref - Spielregeln für die neuen Büros (NESLI_V3)",
+    "name": "ICU_INTERN_Steckbrief für neue Produktideen",
+    "aliasId": "393A1CF503",
+    "type": "job",
+    "language": "DE",
+    "description": "Wie wollen wir im GASAG Energiequartier zusammen arbeiten?",
+    "webViewLink": "https://www.crowdee.de/jobs/4666",
+    "imageUrl": "https://oc.crowdee.de/index.php/s/oq94GHKZim8W6pG/download",
+    "category": "SURVEY",
+    "status": "ASSIGNABLE",
+    "creationTime": "2018-10-15T20:17:52Z",
+    "maxAssignments": 10,
+    "uniqueTasks": false,
+    "relatedJobs": [],
+    "clientRequirements": {
+      "minVersion": 999999
+    },
+    "totalTasks": 5,
+    "availableTasks": 5,
+    "assignmentDuration": 21600,
+    "reservationTimeout": 600,
+    "validFrom": "2018-10-15T22:17:52Z",
+    "validUntil": "2018-11-03T20:00:00Z",
+    "autoApprovalDelay": 1,
+    "averageDuration": 21600,
+    "preloadContent": [],
+    "keywords": [
+      "WorkerInformations"
+    ],
+    "provider": {
+      "id": 178,
+      "name": "ICU User",
+      "description": "ICU User Description",
+      "awards": []
+    },
+    "qualificationRequirements": [],
+    "rewards": [
+      {
+        "currency": "EUR",
+        "amount": 0.01
+      }
+    ]
+  },
+  {
+    "id": 4663,
+    "title": "Test (Client-Platform)",
+    "name": "ICU_INTERN_Test_Client_Platform_",
+    "aliasId": "0A118060E3",
+    "type": "job",
+    "language": "DE",
+    "description": "Wie wollen wir im GASAG Energiequartier zusammen arbeiten?",
+    "webViewLink": "https://www.crowdee.de/jobs/4663",
+    "imageUrl": "https://oc.crowdee.de/index.php/s/oq94GHKZim8W6pG/download",
+    "category": "ICU_ASKTHEMANAGEMENT",
+    "status": "ASSIGNABLE",
+    "creationTime": "2018-10-15T15:27:05Z",
+    "maxAssignments": 10,
+    "uniqueTasks": false,
+    "relatedJobs": [],
+    "clientRequirements": {
+      "minVersion": 999999
+    },
+    "totalTasks": 10,
+    "availableTasks": 10,
+    "assignmentDuration": 1800,
+    "reservationTimeout": 360,
+    "validFrom": "2018-10-15T17:27:05Z",
+    "validUntil": "2018-11-14T16:27:05Z",
+    "autoApprovalDelay": 1,
+    "averageDuration": 1800,
+    "preloadContent": [],
+    "keywords": [
+      "WorkerInformations"
+    ],
+    "provider": {
+      "id": 178,
+      "name": "ICU User",
+      "description": "ICU User Description",
+      "awards": []
+    },
+    "qualificationRequirements": [],
+    "rewards": [
+      {
+        "currency": "EUR",
+        "amount": 0.01
+      }
+    ]
+  },
+  {
+    "id": 4662,
+    "title": "Test (Client-Platform)",
+    "name": "ICU_INTERN_Test_Client_Platform_",
+    "aliasId": "D069EA4544",
+    "type": "job",
+    "language": "DE",
+    "description": "Wie wollen wir im GASAG Energiequartier zusammen arbeiten?",
+    "webViewLink": "https://www.crowdee.de/jobs/4662",
+    "imageUrl": "https://oc.crowdee.de/index.php/s/oq94GHKZim8W6pG/download",
+    "category": "ICU_ASKTHEMANAGEMENT",
+    "status": "ASSIGNABLE",
+    "creationTime": "2018-10-15T14:45:35Z",
+    "maxAssignments": 10,
+    "uniqueTasks": false,
+    "relatedJobs": [],
+    "clientRequirements": {
+      "minVersion": 999999
+    },
+    "totalTasks": 10,
+    "availableTasks": 10,
+    "assignmentDuration": 1800,
+    "reservationTimeout": 360,
+    "validFrom": "2018-10-15T16:45:35Z",
+    "validUntil": "2018-11-14T15:45:35Z",
+    "autoApprovalDelay": 1,
+    "averageDuration": 1800,
+    "preloadContent": [],
+    "keywords": [
+      "WorkerInformations"
+    ],
+    "provider": {
+      "id": 178,
+      "name": "ICU User",
+      "description": "ICU User Description",
+      "awards": []
+    },
+    "qualificationRequirements": [],
+    "rewards": [
+      {
+        "currency": "EUR",
+        "amount": 0.01
+      }
+    ]
+  },
+  {
+    "id": 4661,
+    "title": "Test (Client-Platform)",
+    "name": "ICU_INTERN_Test_Client_Platform_",
+    "aliasId": "280E4BF1E8",
+    "type": "job",
+    "language": "DE",
+    "description": "Wie wollen wir im GASAG Energiequartier zusammen arbeiten?",
+    "webViewLink": "https://www.crowdee.de/jobs/4661",
+    "imageUrl": "https://oc.crowdee.de/index.php/s/oq94GHKZim8W6pG/download",
+    "category": "ICU_ASKTHEMANAGEMENT",
+    "status": "ASSIGNABLE",
+    "creationTime": "2018-10-15T14:28:50Z",
+    "maxAssignments": 10,
+    "uniqueTasks": false,
+    "relatedJobs": [],
+    "clientRequirements": {
+      "minVersion": 999999
+    },
+    "totalTasks": 10,
+    "availableTasks": 9,
+    "assignmentDuration": 1800,
+    "reservationTimeout": 360,
+    "validFrom": "2018-10-15T16:28:50Z",
+    "validUntil": "2018-11-14T15:28:50Z",
+    "autoApprovalDelay": 1,
+    "averageDuration": 1800,
+    "preloadContent": [],
+    "keywords": [
+      "WorkerInformations"
+    ],
+    "provider": {
+      "id": 178,
+      "name": "ICU User",
+      "description": "ICU User Description",
+      "awards": []
+    },
+    "qualificationRequirements": [],
+    "rewards": [
+      {
+        "currency": "EUR",
+        "amount": 0.01
+      }
+    ]
+  },
+  {
+    "id": 4660,
+    "title": "Test (Client-Platform)",
+    "name": "ICU_INTERN_Test_Client_Platform_",
+    "aliasId": "8C1A7FDD1F",
+    "type": "job",
+    "language": "DE",
+    "description": "Wie wollen wir im GASAG Energiequartier zusammen arbeiten?",
+    "webViewLink": "https://www.crowdee.de/jobs/4660",
+    "imageUrl": "https://oc.crowdee.de/index.php/s/oq94GHKZim8W6pG/download",
+    "category": "ICU_ASKTHEMANAGEMENT",
+    "status": "ASSIGNABLE",
+    "creationTime": "2018-10-15T14:17:54Z",
+    "maxAssignments": 10,
+    "uniqueTasks": false,
+    "relatedJobs": [],
+    "clientRequirements": {
+      "minVersion": 999999
+    },
+    "totalTasks": 10,
+    "availableTasks": 10,
+    "assignmentDuration": 1800,
+    "reservationTimeout": 360,
+    "validFrom": "2018-10-15T16:17:54Z",
+    "validUntil": "2018-11-14T15:17:54Z",
+    "autoApprovalDelay": 1,
+    "averageDuration": 1800,
+    "preloadContent": [],
+    "keywords": [
+      "WorkerInformations"
+    ],
+    "provider": {
+      "id": 178,
+      "name": "ICU User",
+      "description": "ICU User Description",
+      "awards": []
+    },
+    "qualificationRequirements": [],
+    "rewards": [
+      {
+        "currency": "EUR",
+        "amount": 0.01
+      }
+    ]
+  },
+  {
+    "id": 4659,
+    "title": "Test (Client-Platform)",
+    "name": "ICU_INTERN_Test_Client_Platform_",
+    "aliasId": "6BA3E50EA3",
+    "type": "job",
+    "language": "DE",
+    "description": "Wie wollen wir im GASAG Energiequartier zusammen arbeiten?",
+    "webViewLink": "https://www.crowdee.de/jobs/4659",
+    "imageUrl": "https://oc.crowdee.de/index.php/s/oq94GHKZim8W6pG/download",
+    "category": "ICU_ASKTHEMANAGEMENT",
+    "status": "ASSIGNABLE",
+    "creationTime": "2018-10-15T14:14:31Z",
+    "maxAssignments": 10,
+    "uniqueTasks": false,
+    "relatedJobs": [],
+    "clientRequirements": {
+      "minVersion": 999999
+    },
+    "totalTasks": 10,
+    "availableTasks": 10,
+    "assignmentDuration": 1800,
+    "reservationTimeout": 360,
+    "validFrom": "2018-10-15T16:14:31Z",
+    "validUntil": "2018-11-14T15:14:31Z",
+    "autoApprovalDelay": 1,
+    "averageDuration": 1800,
+    "preloadContent": [],
+    "keywords": [
+      "WorkerInformations"
+    ],
+    "provider": {
+      "id": 178,
+      "name": "ICU User",
+      "description": "ICU User Description",
+      "awards": []
+    },
+    "qualificationRequirements": [],
+    "rewards": [
+      {
+        "currency": "EUR",
+        "amount": 0.01
+      }
+    ]
+  },
+  {
+    "id": 4658,
+    "title": "Test (Client-Platform)",
+    "name": "ICU_INTERN_Test_Client_Platform_",
+    "aliasId": "A8076D809F",
+    "type": "job",
+    "language": "DE",
+    "description": "Wie wollen wir im GASAG Energiequartier zusammen arbeiten?",
+    "webViewLink": "https://www.crowdee.de/jobs/4658",
+    "imageUrl": "https://oc.crowdee.de/index.php/s/oq94GHKZim8W6pG/download",
+    "category": "ICU_ASKTHEMANAGEMENT",
+    "status": "ASSIGNABLE",
+    "creationTime": "2018-10-15T13:42:39Z",
+    "maxAssignments": 10,
+    "uniqueTasks": false,
+    "relatedJobs": [],
+    "clientRequirements": {
+      "minVersion": 999999
+    },
+    "totalTasks": 10,
+    "availableTasks": 10,
+    "assignmentDuration": 1800,
+    "reservationTimeout": 360,
+    "validFrom": "2018-10-15T15:42:39Z",
+    "validUntil": "2018-11-14T14:42:39Z",
+    "autoApprovalDelay": 1,
+    "averageDuration": 1800,
+    "preloadContent": [],
+    "keywords": [
+      "WorkerInformations"
+    ],
+    "provider": {
+      "id": 178,
+      "name": "ICU User",
+      "description": "ICU User Description",
+      "awards": []
+    },
+    "qualificationRequirements": [],
+    "rewards": [
+      {
+        "currency": "EUR",
+        "amount": 0.01
+      }
+    ]
+  },
+  {
+    "id": 4657,
+    "title": "Move2Euref - Spielregeln für die neuen Büros (Test)",
+    "name": "ICU_INTERN_Move2Euref_Spielregeln_für_die_neuen_Büros",
+    "aliasId": "5BE400D850",
+    "type": "job",
+    "language": "DE",
+    "description": "Wie wollen wir im GASAG Energiequartier zusammen arbeiten?",
+    "webViewLink": "https://www.crowdee.de/jobs/4657",
+    "imageUrl": "https://oc.crowdee.de/index.php/s/oq94GHKZim8W6pG/download",
+    "category": "ICU_ASKTHEMANAGEMENT",
+    "status": "ASSIGNABLE",
+    "creationTime": "2018-10-12T14:09:42Z",
+    "maxAssignments": 10,
+    "uniqueTasks": false,
+    "relatedJobs": [],
+    "clientRequirements": {
+      "minVersion": 999999
+    },
+    "totalTasks": 10,
+    "availableTasks": 10,
+    "assignmentDuration": 1800,
+    "reservationTimeout": 360,
+    "validFrom": "2018-10-12T16:09:42Z",
+    "validUntil": "2018-11-11T15:09:42Z",
+    "autoApprovalDelay": 1,
+    "averageDuration": 1800,
+    "preloadContent": [],
+    "keywords": [
+      "WorkerInformations"
+    ],
+    "provider": {
+      "id": 178,
+      "name": "ICU User",
+      "description": "ICU User Description",
+      "awards": []
+    },
+    "qualificationRequirements": [],
+    "rewards": [
+      {
+        "currency": "EUR",
+        "amount": 0.01
+      }
+    ]
+  }
+]
